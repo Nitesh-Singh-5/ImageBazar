@@ -14,4 +14,4 @@ The uploaded images go through a lot of security checks before they are uploaded
 
 4. **Highly secure** - a lot of security checks were compiled from many sources into this one library.
 
-<img src="https://github.com/Nitesh-Singh-5/ImageBazar/blob/master/readme.png" align="left" height="400" width="500" >
+<img src="https://github.com/Nitesh-Singh-5/ImageBazar/blob/master/readme.png" align="left" height="350" width="400" >
